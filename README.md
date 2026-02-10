@@ -2,4 +2,4 @@
 
 ### Preview
 
-<img src="preview.jpg"/>
+<img src="preview.png"/>
